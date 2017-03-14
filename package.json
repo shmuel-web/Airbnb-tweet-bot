@@ -1,0 +1,18 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "guesty-bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shmmuel The Israeli",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "json2csv": "^3.7.3",
+    "moment": "^2.17.1",
+    "nodemailer": "^3.1.5",
+    "twitter": "^1.7.0"
+  }
+}
